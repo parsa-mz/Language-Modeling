@@ -37,7 +37,7 @@ The code is primarily written in a Jupyter notebook format, which allows for ite
     └── Language_Modeling.ipynb
 ```
 
-The `data` directory hosts the Penn Treebank dataset split into training, validation, and test sets. The Jupyter `notebook` contains the code, including model definitions, data preprocessing, training loops, and evaluation metrics.
+The Jupyter `notebook` contains the code, including model definitions, data preprocessing, training loops, and evaluation metrics.
 
 ## Model
 
